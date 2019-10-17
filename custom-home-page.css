@@ -1,0 +1,50 @@
+/* customhomepage */
+div#HTML17,div#HTML9{display: none;}
+.sidebar-wrapper{display: none;}
+.wrapper.has-right-sidebar .post-wrapper {float: left; padding-right: 0px; padding-left: 0; width: 100%;}
+.home-layout .fbig .mag-posts li:first-child .mag-thumb {height: 300px;}
+.home-layout .mag-thumb {height: 165px;}
+.home-layout .mag-content {padding: 14px 0 18px; width: 95%;}
+#loader{background-color:#000}
+.header{border-bottom: #333 1px solid}
+.parent-list>a:after{background-color:#000000}
+.spinner>div{background-color:#f50;border-color:#f50;color:#000}
+body{background:#000000;color:#fff;font:14px Roboto}
+.slider .mag-thumb{display:none}
+.slider .mag-title a{color:#fff;font-size:35px!important;font:20px "Druk Wide Web Medium";text-transform:uppercase;font-weight:800;text-decoration:underline;letter-spacing:1px}
+.slider .mag-title a:hover{color:#f50}
+.slider .slider-block,.slider .slider-block li{height:400px}
+.slider .mag-summary{color:#ccc;font-size:15px;text-transform:uppercase}
+.trending-posts h2,.posts-title h2 a,.home-layout h2{display:inline-block;background:#000000;padding:0 15px 0 0;font:20px "Druk Wide Web Medium","Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:capitalize;font-weight:normal;font-size:1.625rem!important;color:#f50;position:relative;z-index:9;letter-spacing:0}
+.trending-posts .widget-title:after,.posts-title .widget-title:after,.home-layout .widget-title:after{content:"";height:3px;background:#ffffff;display:inline-block;width:100%;position:absolute;right:0;top:14px}
+.home-layout .widget{background:#000000;padding:0;margin-bottom:40px}
+.trending-posts .mag-title a,.home-layout .mag-title a{padding:0!important;text-transform:uppercase;font:20px "Druk Wide Web Medium","Helvetica Neue",Helvetica,Arial,sans-serif;color:#fff;border:0!important;letter-spacing:1px;text-transform:uppercase!important}
+.home-layout .fbig .mag-posts li:first-child .mag-thumb{display:none}
+.home-layout .fbig .mag-thumb{display:none}
+.home-layout .fbig .mag-posts li:first-child .mag-summary{color:#ccc;text-transform:uppercase}
+.home-layout .slider .mag-title a{padding:0!important;text-transform:uppercase!important;font:20px "Druk Wide Web Medium","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:32px!important;color:#fff;border:0!important}
+.home-layout .slider .mag-title a:hover{color:#f50}
+.home-layout .mag-title a:hover{color:#f50}
+.home-layout .slider .slider-block,.home-layout .slider .slider-block li{height:300px}
+.slider .owl-nav div{color:#000000;background:#f50;margin-left:10px;width:35px;height:35px;text-align:center;line-height:35px;font-size:18px}
+.home-layout .fbig .mag-posts li{border-bottom:solid 1px;padding-bottom:1%}
+.index .post-title a{line-height:22px!important;font:20px "Druk Wide Web Medium","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:18px!important;font-weight:lighter;color:#fff;text-transform:uppercase;letter-spacing:1px}
+.index .post-title a:hover,.post-labels a:hover{color:#f50}
+.post-snippet{font-family:"sourcecodepro",Monaco,monospace;color:#ccc;text-transform:uppercase}
+.columns{float:left;width:calc(-25px + 25.33%);margin:10px;padding:0;margin-bottom:2%;border-bottom:solid 1px}
+#authors-bio{border-top:none}
+a.copyright-link{box-shadow:none}
+.main-menu li a{font-family:"Druk Wide Web Medium","Helvetica Neue",Helvetica,Arial,sans-serif;word-wrap:normal;color:#f50;font-size:.825rem;font-weight:lighter;display:block;margin:0 5px;line-height:100px;position:relative;text-transform:uppercase}
+.parent-list >ul li a{background:#000;color:#f50;font-size:.825rem;font-weight:lighter;line-height:40px;margin:0;padding:0 15px;width:250px;text-transform:uppercase}
+.index .post-thumb a{width:100%;height:164px;display:none}
+.search-button a{color:#f50}
+.search-box-overlay{background-color:rgba(0,0,0,0.94)}
+.search-box-wrapper form{background-color:#000000}
+input.search-input{border-bottom:2px dotted #fff!important;color:#f50}
+.search-box-close{color:#f50}
+@media screen and (max-width:570px){.columns{width:100%;margin:0;padding:0;margin-bottom:4%}.slider .mag-title a{font-size:22px!important;line-height:25px!important}.home-layout .slider .mag-title a{font-size:25px!important;line-height:30px!important}.home-layout .slider .slider-block,.home-layout .slider .slider-block li{height:250px:}.home-layout .slider .owl-nav{right:0}.trending-posts h2,.posts-title h2 a,.home-layout h2{color:#f50}}
+@media screen and (max-width:1000px){a.open-menu{color:#f50}}
+@media screen and (max-width:1000px){#main-menu li >a{line-height:40px;border-bottom:1px solid #000000;margin:0;padding:0 15px;font-size:14px;font-weight:lighter;text-transform:uppercase;letter-spacing:1px}}
+a#Blog1_blog-pager-older-link{font-family:"Druk Wide Web Medium","Helvetica Neue",Helvetica,Arial,sans-serif}
+#blog-pager-older-link a{color:#f50;font-size:20px;font-weight:normal;display:inline-block;position:relative;transition:0.3s;box-shadow:inset 0 -1px 0 #000;letter-spacing:1px;text-transform:uppercase}
+#ad-inside{display:none}
