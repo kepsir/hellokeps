@@ -324,7 +324,7 @@ a.hide{display:none;}
 .author-pic{display:none;}
 .post-content{padding:15px 0;}
 .post-meta{position:relative;margin:8px 0;}
-.post-meta span,.post-meta a,.post-meta trans{font-family:"sourcecodepro",Monaco,monospace;font-size:14x;line-height:23px;color:#000;font-weight:500;}
+.post-meta span,.post-meta a,.post-meta trans{font-family:"sourcecodepro",Monaco,monospace;font-size:12px;line-height:23px;color:#f50;font-weight:500;}
 .item .post-meta span,.item .post-meta a,.item .post-meta trans{font-family:"sourcecodepro",Monaco,monospace;font-size:14px;line-height:23px;color:#FFF;}
 .index .post-meta .post-author:after{content:"-";margin:0 3px;font-size:14px;}
 .item .post-meta i{font-size:13px;margin-right:0;}
