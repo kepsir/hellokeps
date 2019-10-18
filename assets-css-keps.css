@@ -375,7 +375,7 @@ body.index.list-style .post-title a{line-height:26px!important;font-size:25px!im
 .post-body .post-share{margin:30px 0;padding-top:7px;}
 .post-share a{text-align:center;color:#fff;display:inline-block;width:42px;text-transform:capitalize;font-size:14px;height:30px;line-height:30px;margin-left:0;}
 .post-share a.facebook-share,.post-share a.twitter-share{width:auto;padding:0 35px;}
-.post-share a:hover{color:$(psh.color);box-shadow:0 0 0 1px $(mb.color);-webkit-box-shadow:0 0 0 1px $(mb.color);-moz-box-shadow:0 0 0 1px $(mb.color);-o-box-shadow:0 0 0 1px $(mb.color);background:#fff;}
+.post-share a:hover{color:#000000;box-shadow:0 0 0 1px $(mb.color);-webkit-box-shadow:0 0 0 1px $(mb.color);-moz-box-shadow:0 0 0 1px $(mb.color);-o-box-shadow:0 0 0 1px $(mb.color);background:#fff;}
 h5.share-title{text-transform:uppercase;font-weight:700;color:$(st.color);margin-right:15px!important;float:left;line-height:35px;font-size:14px!important;}
 input.post-share-url{display:block;width:100%;border:0 solid $(mb.color);padding:10px;margin-top:7px;background:#f8f8f8;cursor:context-menu;}
 .post-share a trans{font:14px Poppins;;font-size:12px;margin-left:10px;font-weight:700;}
