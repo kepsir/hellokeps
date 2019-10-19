@@ -1,0 +1,1 @@
+$(document).ready(function(){jQuery(".post-body img").each(function(){var r=this;if(!(jQuery(this).attr("src",jQuery(this).attr("src").replace("s1600","s550"))||"").length>0){var t=jQuery(this).attr("lsrc",jQuery(this).attr("lsrc").replace("s1600","s550"))||"";if(r.src=t,t.length>0){var s=new Image;s.src=t,$(s).load(function(){r.src=this.src})}}})});
